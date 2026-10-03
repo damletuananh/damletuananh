@@ -27,6 +27,6 @@ I’m [**pr4d3**](), a software engineering student and "junior" frontend dev in
 
 **Fun Facts:**
 
-* I'm a fan of the Manchester United football team
+* I'm a big fan of the Manchester United football team
 * I like coffee 
 * **Hobbies:** playing soccer and video games
